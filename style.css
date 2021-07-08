@@ -1,0 +1,44 @@
+.body {
+color: black;
+background-color: #E8F6EF;
+}
+
+.title-heading {
+text-align: center;
+margin-top: 3rem;
+}
+
+.sub-heading {
+text-align: center;
+margin: 4rem 0;
+}
+
+.row {
+padding-top: 1rem;
+}
+
+.container {
+padding-left: 15rem;
+padding-right: 15rem;
+}
+
+.col1 {
+padding-left: 2rem;
+}
+
+.btns {
+text-align: center;
+}
+
+.inbtn{
+background-color: #185ADB;
+color: #ffffff;
+}
+
+.modal{
+color: black;
+}
+
+#name-check,#gender-check,#addr-check,#email-check,#school-check,#dept-check,#course-check,#passog-check,#passconf-check,#number-check,#dob-check{
+  display: none;
+}
